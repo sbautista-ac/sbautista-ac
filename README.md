@@ -1,4 +1,14 @@
-## Hi there 👋
+# sbautista-ac
+## Holaaa bienvenid@
+
+** Soy Sarai estudiante de diseño en CENTRO
+Me gusta la ilustración y el diseño interactivo 
+
+### Programas 
+- Indesign
+- Ilustrator
+- After efects
+- Figma
 
 <!--
 **sbautista-ac/sbautista-ac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,0 +1,11 @@
+body {
+  font-family: "tiffin-latin-variable", sans-serif;
+    background-color: #f4f4f4;
+    width: 100%;
+    max-width: 100ch;
+    /* Cambia 600px al ancho que prefieras */
+    margin: 0 auto;
+    height: auto;
+   font-size: large;
+    padding: 2em;
+}
